@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
+#include "grammar.C"
 
 #ifndef bool // bools
 #define bool char
