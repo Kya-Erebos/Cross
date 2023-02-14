@@ -15,3 +15,6 @@ class main implements runtime {
 }
 ```
 Lets break it down
+
+the ```|include ...|``` statements are wrapped in '|' characters. these serve similar function to the C pre-processor, and indicate to the %(interpreter / compiler)% that a keyword / file must be defined or included. inside these pre-processor 
+
