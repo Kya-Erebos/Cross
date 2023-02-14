@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1676303824 source:c:\users\tbeau\onedrive\documents\github\cross\cross\src\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<editline/readline.h>
+	<editline/history.h>
+
